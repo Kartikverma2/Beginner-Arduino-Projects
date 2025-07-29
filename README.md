@@ -4,6 +4,6 @@ A collection of my Arduino starter projects.
 
 ## Projects
 
-- **LED Pattern Generator**
+- **LED Pattern Generator with Button control**
   
 
